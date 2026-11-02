@@ -103,7 +103,7 @@ Berikut konfigurasi pin untuk program ESP32 Ruang 4.
 
 ### Foto Rangkaian
 
-![Rangkaian ESP32](docs/image/rangkaian.jpg)
+![Rangkaian ESP32](docs/image/rangkaian.jpeg)
 
 ## 6. Konfigurasi MQTT Topic dan Broker
 
@@ -178,11 +178,11 @@ Untuk mengakses melalui HP pada jaringan yang sama:
 
 ### Flow Node-RED
 
-![Flow Node-RED](docs/image/flow.png)
+![Flow Node-RED](docs/image/flow.jpeg)
 
 ### Dashboard Node-RED
 
-![Dashboard Node-RED](docs/image/dashboard.png)
+![Dashboard Node-RED](docs/image/dashboard.jpeg)
 
 ## 9. Hasil Pengujian T1–T12
 
@@ -203,7 +203,7 @@ Untuk mengakses melalui HP pada jaringan yang sama:
 
 ### Dokumentasi Pengujian
 
-![Dokumentasi Pengujian](docs/image/pengujian.png)
+![Dokumentasi Pengujian](docs/image/pengujian.jpeg)
 
 ## 10. Ruangan yang Disimulasikan
 Tidak ada ruang yang disimulasikan, karena jumlah ruangan adalah 4, dan semua ruang memakai ESP32 sungguhan
