@@ -178,7 +178,7 @@ Untuk mengakses melalui HP pada jaringan yang sama:
 
 ### Flow Node-RED
 
-![Flow Node-RED](docs/image/flow.jpeg)
+![Flow Node-RED](docs/image/flow.png)
 
 ### Dashboard Node-RED
 
